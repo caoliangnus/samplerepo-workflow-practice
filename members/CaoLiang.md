@@ -1,9 +1,9 @@
 # Cao Liang
 ##### Email: liangcao1213@yahoo.com
 ##### Phone: 96271935
-##Work experience: 
+## Work experience: 
 No experience
-##Education:
+## Education:
 Diploma in Biomedical Science <br>
 July 2010-June 2013<br>
 NgeeAnn polytechnic
