@@ -13,8 +13,8 @@ July 2017-June 2021<br>
 National University of Singapore
 
 ## Relevant Skills:
-  1. C 
-  2. Java
+  * C 
+  * Java
 
 ## Interest:
 * Chess
